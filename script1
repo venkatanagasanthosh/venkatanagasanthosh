@@ -1,0 +1,8 @@
+#!/bin/bash
+echo HI santosh this is my second script
+
+mkdir scriptdir
+cd scriptdir 
+touch file1 file2
+
+
