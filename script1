@@ -4,7 +4,7 @@ echo HI santosh this is my second script
 mkdir scriptdir
 #Change the directory 
 cd scriptdir 
-Creates a files with certain names
+#Creates a files with certain names
 touch file1 file2
 
 
